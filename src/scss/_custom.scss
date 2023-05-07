@@ -1,0 +1,23 @@
+$color-danger: #9E3040;
+
+a{
+    color: black;
+}
+i{
+    color: black;
+}
+.col .text {
+    color: $color-danger;
+    font-weight: bold;
+}
+.col .navbar-brand {
+    color: $color-danger;
+    font-weight: bold;
+}
+.card-img-overlay{
+    margin-top: 250px;
+    margin-left: 60px;
+}
+.card-img-overlay button {
+    color: $color-danger;
+}
